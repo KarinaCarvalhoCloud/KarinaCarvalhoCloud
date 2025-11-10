@@ -30,6 +30,6 @@ Aqui você encontrará meus projetos técnicos que demonstram a aplicação prá
 
 ## 🔗 Conecte-se
 
-- **LinkedIn:** linkedin.com/in/anakarina-carvalho-cloud
+- **LinkedIn:** https://www.linkedin.com/in/anakarina-carvalho-cloud
 - **E-mail Profissional:** carvalhoanakarina498@gmail.com
 - **Portfólio Pessoal (Em Breve!):** 
