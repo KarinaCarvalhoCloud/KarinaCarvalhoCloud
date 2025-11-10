@@ -1,6 +1,6 @@
 # KarinaCarvalhoNuvem
 
-# 👩‍💻 [Seu Nome Completo] | Segurança, IA e Cloud (AWS)
+# 👩‍💻 Ana Karina Carvalho | Segurança, IA e Cloud (AWS)
 
 ## 🌟 Sobre Mim: Transição e Propósito
 
@@ -10,7 +10,7 @@ Minha base anterior me equipou com um forte senso de detalhe, rigor metodológic
 
 ## 🛠️ Foco Técnico e Áreas de Interesse
 
-Meu foco está em construir soluções de segurança **automatizadas e inteligentes**.
+Meu foco está em construir soluções de segurança **automatizadas, inteligentes e Seguras**.
 
 - **Cloud Security (AWS):** Gerenciamento de Identidade e Acesso (IAM/PAM), Security Groups e arquitetura segura.
 - **Automação (Python):** Uso de Python e Boto3 para implementar **Defesa em Profundidade** de forma escalável.
@@ -32,6 +32,6 @@ Aqui você encontrará meus projetos técnicos que demonstram a aplicação prá
 
 [Substitua com seus links]
 
-- **LinkedIn:** [Seu Link do LinkedIn]
-- **E-mail Profissional:** [Seu E-mail]
+- **LinkedIn:** linkedin.com/in/anakarina-carvalho-cloud
+- **E-mail Profissional:** carvalhoanakarina498@gmail.com
 - **Portfólio Pessoal (Em Breve!):** [Seu Link do GitHub Pages, quando pronto]
