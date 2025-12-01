@@ -1,6 +1,6 @@
 # KarinaCarvalhoNuvem
 
-# 👩‍💻 Ana Karina Carvalho | Segurança, IA e Cloud (AWS)
+#  Ana Karina Carvalho | Segurança, IA e Cloud (AWS)
 
 ## Sobre Mim: Transição e Propósito
 
@@ -16,7 +16,7 @@ Meu foco está em construir soluções de segurança **automatizadas, inteligent
 - **Automação (Python):** Uso de Python e Boto3 para implementar **Defesa em Profundidade** de forma escalável.
 - **Inteligência Artificial:** Aplicação prática de Machine Learning e GenAI para **detecção de anomalias** em logs de segurança e automação de tarefas do SOC.
 
-## 💼 Projetos em Destaque
+##  Projetos em Destaque
 
 Aqui você encontrará meus projetos técnicos que demonstram a aplicação prática dessas competências. Os projetos focam em soluções que resolvam problemas reais de segurança e eficiência.
 
