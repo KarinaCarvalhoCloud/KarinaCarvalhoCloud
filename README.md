@@ -22,9 +22,9 @@ Aqui você encontrará meus projetos técnicos que demonstram a aplicação prá
 
 | Projeto | Foco Principal | Tecnologias Chave |
 | :--- | :--- | :--- |
-| ** IAM Monitor AWS** | Automação de Auditoria e PoLP | Python, Boto3, AWS IAM |
-| ** Análise de Logs com IA** | Detecção de Anomalias com ML | Python, Scikit-learn, AWS S3 |
-| ** Infraestrutura Segura** | IaC e Hardening de Cloud | Terraform, AWS CLI |
+| **IAM Monitor AWS** | Automação de Auditoria e PoLP | Python, Boto3, AWS IAM |
+| **Análise de Logs com IA** | Detecção de Anomalias com ML | Python, Scikit-learn, AWS S3 |
+| **Infraestrutura Segura** | IaC e Hardening de Cloud | Terraform, AWS CLI |
 
 ---
 
