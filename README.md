@@ -1,5 +1,3 @@
-# KarinaCarvalhoNuvem
-
 #  Ana Karina Carvalho | Segurança, IA e Cloud (AWS)
 
 ## Sobre Mim: Transição e Propósito
