@@ -22,9 +22,13 @@ Aqui você encontrará meus projetos técnicos que demonstram a aplicação prá
 
 | Projeto | Foco Principal | Tecnologias Chave |
 | :--- | :--- | :--- |
-| **IAM Monitor AWS** | Automação de Auditoria e PoLP | Python, Boto3, AWS IAM |
-| **Análise de Logs com IA** | Detecção de Anomalias com ML | Python, Scikit-learn, AWS S3 |
-| **GenAI- LABs** | IaC e Hardening de Cloud | Bedrock, Sage Maker |
+| **aws-secure-architecture-lab** | Projeto prático focado em arquitetura de soluções e segurança na AWS, simulando um cenário real de empresa SaaS em crescimento.
+| **IAM-Monitor-Auto-Remediation** | Este projeto implementa uma solução de auto-remediação serverless para proteger contas AWS contra o "Security Drift" – a degradação gradual das políticas de segurança.
+| **mentor-de-estudos-com-IA-generativa** | assistente inteligente projetado para democratizar o acesso a mentorias de estudo e preparação para carreira. 
+| **antigolpe_ia** | Projeto em desenvolvimento com foco na identificação de mensagens potencialmente fraudulentas, utilizando regras heurísticas e técnicas básicas de Inteligência Artificial aplicadas à segurança da informação.
+| **AWS-GenAI-Labs** | Este repositório consolida a experiência prática e as implementações realizadas nos laboratórios do AWS Cloud Quest com foco em IA Generativa, DevOps e Segurança.
+
+
 
 ---
 
